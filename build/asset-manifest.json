@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd753b98.css",
+    "main.js": "/static/js/main.5824ca60.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/auth-back.png": "/static/media/auth-back.9ecdc79d16df96982e43.png",
+    "index.html": "/index.html",
+    "main.fd753b98.css.map": "/static/css/main.fd753b98.css.map",
+    "main.5824ca60.js.map": "/static/js/main.5824ca60.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd753b98.css",
+    "static/js/main.5824ca60.js"
+  ]
+}
